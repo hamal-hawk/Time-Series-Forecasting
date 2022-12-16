@@ -1,0 +1,13 @@
+flask
+pandas
+numpy
+matplotlib 
+scikit-learn
+scipy
+tensorflow
+keras
+google-cloud-storage
+flask-cors
+pystan==2.19.1.1
+prophet==1.0
+statsmodels==0.13.2
